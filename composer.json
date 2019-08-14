@@ -1,7 +1,7 @@
 {
     "name": "OpenMageModuleFostering/MessageBusiness_ContactsSync",
     "type": "magento-module",
-    "license": "AFL",
+    "license": "Academic-Free-License-(AFL)",
     "homepage": "",
     "description": "Importer automatiquement les données clients et les inscrits newsletter dans votre compte Message Business.",
     "authors": [
