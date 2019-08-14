@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+    <name>MessageBusiness_ContactsSync</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license>AFL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Importer automatiquement les donn&#xE9;es clients et les inscrits newsletter dans votre compte Message Business.</summary>
+    <description>Consolidez facilement vos donn&#xE9;es clients de votre site Magento pour mener des actions marketing automatiques intelligentes depuis votre compte Message Business.&#xD;
+Cet extension ne se limite pas &#xE0; simplement r&#xE9;cup&#xE9;rer l'adresse email ! Elle export votre base client, les inscrits newsletters, les derniers achats, les derni&#xE8;res visites et il consolide ensuite l'information de mani&#xE8;re coh&#xE9;rente.&#xD;
+En s'appuyant sur ces donn&#xE9;es consolid&#xE9;es, votre compte Message Business sera alors automatiquement configur&#xE9; et vos principaux segments d&#xE9;j&#xE0; cr&#xE9;&#xE9;s (clients 1er achat, inactif, etc...). Vous pourrez en cr&#xE9;er d'autres ais&#xE9;ment !&#xD;
+Disposant de donn&#xE9;es fiabilis&#xE9;es, vous pourrez imm&#xE9;diatement piloter des actions marketing efficaces et automatisables sans connaissance informatique.&#xD;
+Cette extension gratuite est au service de votre relation client et du d&#xE9;veloppement de votre chiffre d'affaires !</description>
+    <notes>Version 1.0.0 Release Candidate</notes>
+    <authors><author><name>Sinabs</name><user>sinabs_fr</user><email>tech@sinabs.fr</email></author></authors>
+    <date>2013-01-14</date>
+    <time>14:02:49</time>
+    <contents><target name="magedesign"><dir name="adminhtml"><dir name="default"><dir name="default"><dir name="template"><dir name="contactssync"><dir name="system"><dir name="config"><dir name="sync"><file name="run.phtml" hash="84f7277b47e7558141de460978cdfe48"/></dir></dir></dir></dir></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="MessageBusiness_ContactsSync.xml" hash="676b5fb5c19515a258e2b43238036f93"/></dir></target><target name="magelocale"><dir><dir name="es_ES"><file name="MessageBusiness_ContactsSync.csv" hash="c3d6a031b3af5cb46717c704be3024e5"/></dir><dir name="fr_FR"><file name="MessageBusiness_ContactsSync.csv" hash="fb1767163a68929194d94103d854c7d0"/></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>

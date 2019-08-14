@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/MessageBusiness_ContactsSync",
+    "type": "magento-module",
+    "license": "AFL",
+    "homepage": "",
+    "description": "Importer automatiquement les données clients et les inscrits newsletter dans votre compte Message Business.",
+    "authors": [
+    {
+        "name": "Sinabs",
+        "email": "tech@sinabs.fr"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
